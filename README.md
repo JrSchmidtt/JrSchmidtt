@@ -1,4 +1,7 @@
-###  HELL0 I AM JUNIOR SCHMIDT 
+# <b>[Junior Schmidt 🡽](https://www.linkedin.com/in/jrschmidtt/)</b>
+<b>Desenvolvedor Web - Full Stack.</b><br>
+<b>Análise e desenvolvimento de sistemas.</b>
+<br>
 
 <div align="center">
   <a href="https://github.com/jrschmidtt">
