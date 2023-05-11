@@ -9,7 +9,7 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrschmidtt&theme=chartreuse-dark" alt="jrschmidtt" /></p>
     
 </div><hr>
- 
+  
  <br>
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
@@ -33,7 +33,7 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
+  
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/JrSchmidtt/count.svg" />  
